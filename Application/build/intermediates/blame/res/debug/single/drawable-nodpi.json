@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/drawable-nodpi/android_robot.png",
+        "source": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/src/main/res/drawable-nodpi/android_robot.png"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/drawable-nodpi/blue.png",
+        "source": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/src/main/res/drawable-nodpi/blue.png"
+    }
+]

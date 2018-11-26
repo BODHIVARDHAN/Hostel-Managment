@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:background="@drawable/faint"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="85dp"
+        android:layout_height="31dp"
+        android:layout_weight="1"
+        android:layout_x="21dp"
+        android:layout_y="123dp"
+        android:text="FAN"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_x="225dp"
+        android:layout_y="95dp"
+        android:text="WORKING" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_x="295dp"
+        android:layout_y="111dp"
+        android:text="NOT WORKING" />
+
+    <EditText
+        android:id="@+id/Rfan"
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:layout_x="132dp"
+        android:layout_y="107dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/Rtube"
+        android:layout_width="85dp"
+        android:layout_height="53dp"
+        android:layout_x="132dp"
+        android:layout_y="137dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/Rbulb"
+        android:layout_width="85dp"
+        android:layout_height="55dp"
+        android:layout_x="133dp"
+        android:layout_y="173dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/Rtable"
+        android:layout_width="85dp"
+        android:layout_height="66dp"
+        android:layout_x="134dp"
+        android:layout_y="242dp"
+        android:ems="10"
+        android:inputType="number" />
+
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="82dp"
+        android:layout_y="13dp"
+        android:text="ROOM DETAILS"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Rsubmit"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="140dp"
+        android:layout_y="543dp"
+        android:text="SUBMIT"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="85dp"
+        android:layout_height="49dp"
+        android:layout_weight="1"
+        android:layout_x="24dp"
+        android:layout_y="452dp"
+        android:text="problem in room"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/Rproblem"
+        android:layout_width="238dp"
+        android:layout_height="71dp"
+        android:layout_x="132dp"
+        android:layout_y="425dp"
+        android:ems="10"
+        android:inputType="textMultiLine" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="85dp"
+        android:layout_height="31dp"
+        android:layout_weight="1"
+        android:layout_x="28dp"
+        android:layout_y="412dp"
+        android:text="OTHER"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/Rbed"
+        android:layout_width="85dp"
+        android:layout_height="75dp"
+        android:layout_x="132dp"
+        android:layout_y="319dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/Rother"
+        android:layout_width="238dp"
+        android:layout_height="wrap_content"
+        android:layout_x="132dp"
+        android:layout_y="398dp"
+        android:ems="10"
+        android:inputType="textMultiLine" />
+
+    <EditText
+        android:id="@+id/Rchair"
+        android:layout_width="85dp"
+        android:layout_height="65dp"
+        android:layout_x="136dp"
+        android:layout_y="283dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="85dp"
+        android:layout_height="31dp"
+        android:layout_weight="1"
+        android:layout_x="28dp"
+        android:layout_y="368dp"
+        android:text="BED"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="85dp"
+        android:layout_height="31dp"
+        android:layout_weight="1"
+        android:layout_x="28dp"
+        android:layout_y="326dp"
+        android:text="CHAIR"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="85dp"
+        android:layout_height="31dp"
+        android:layout_weight="1"
+        android:layout_x="26dp"
+        android:layout_y="280dp"
+        android:text="TABLE"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/Rlocker"
+        android:layout_width="85dp"
+        android:layout_height="58dp"
+        android:layout_x="132dp"
+        android:layout_y="210dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="85dp"
+        android:layout_height="31dp"
+        android:layout_weight="1"
+        android:layout_x="24dp"
+        android:layout_y="242dp"
+        android:text="LOCKER"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="85dp"
+        android:layout_height="31dp"
+        android:layout_weight="1"
+        android:layout_x="22dp"
+        android:layout_y="204dp"
+        android:text="BULB"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="85dp"
+        android:layout_height="31dp"
+        android:layout_weight="1"
+        android:layout_x="22dp"
+        android:layout_y="168dp"
+        android:text="TUBE"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="244dp"
+        android:layout_y="124dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/fan_working"
+            android:layout_width="77dp"
+            android:layout_height="match_parent"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/fan_notworking"
+            android:layout_width="44dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+
+
+    </RadioGroup>
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="242dp"
+        android:layout_y="159dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/tube_working"
+            android:layout_width="77dp"
+            android:layout_height="match_parent"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/tube_notworking"
+            android:layout_width="44dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+
+    </RadioGroup>
+
+    <RadioGroup
+
+        android:id="@+id/radioGroup3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="246dp"
+        android:layout_y="241dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/locker_working"
+            android:layout_width="77dp"
+            android:layout_height="match_parent"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/locker_notworking"
+            android:layout_width="44dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+
+
+    </RadioGroup>
+
+    <RadioGroup
+
+        android:id="@+id/radioGroup4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="246dp"
+        android:layout_y="284dp"
+        android:orientation="horizontal">
+
+
+    </RadioGroup>
+
+
+    <RadioGroup
+
+        android:id="@+id/radioGroup6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="245dp"
+        android:layout_y="359dp"
+        android:orientation="horizontal">
+
+
+    </RadioGroup>
+
+    <RadioGroup
+
+        android:id="@+id/radioGroup5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="246dp"
+        android:layout_y="320dp"
+        android:orientation="horizontal">
+
+
+    </RadioGroup>
+
+    <RadioGroup
+
+        android:id="@+id/radioGroup2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="242dp"
+        android:layout_y="202dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/bulb_working"
+            android:layout_width="77dp"
+            android:layout_height="match_parent"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/bulb_notworking"
+            android:layout_width="44dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="308dp"
+        android:layout_y="95dp"
+        android:text="notworking" />
+</AbsoluteLayout>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/faint"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <AbsoluteLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:layout_x="5dp"
+            android:layout_y="110dp"
+            android:text="ENTER AADHAR NO:"
+            android:textSize="18sp"
+            android:textStyle="bold|italic"
+            tools:layout_editor_absoluteX="102dp"
+            tools:layout_editor_absoluteY="40dp" />
+
+        <EditText
+            android:id="@+id/Aadhar2"
+            tools:layout_editor_absoluteX="84dp"
+            tools:layout_editor_absoluteY="85dp"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:layout_x="183dp"
+            android:layout_y="108dp"
+            android:ems="10"
+            android:inputType="number" />
+
+        <TextView
+                android:id="@+id/confirmation_message"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:textAppearance="@android:style/TextAppearance.Material.Body2"
+                android:textColor="?android:attr/colorAccent"
+                android:text="@string/purchase_done"
+                android:visibility="gone"/>
+
+        <TextView
+                android:id="@+id/encrypted_message"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:textAppearance="@android:style/TextAppearance.Material.Body2"
+                android:textColor="?android:attr/colorAccent"
+                android:text="@string/purchase_done"
+                android:visibility="gone"/>
+
+
+        <!--Button
+            android:id="@+id/purchase_button_not_invalidated"
+            style="@android:style/Widget.Material.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginEnd="4dp"
+            android:layout_marginTop="8dp"
+            android:layout_x="169dp"
+            android:layout_y="432dp"
+            android:text="@string/purchase_not_invalidated"
+            android:textColor="?android:attr/textColorPrimaryInverse" /-->
+
+
+        <!--Button
+            android:id="@+id/purchase_button"
+            style="@android:style/Widget.Material.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginEnd="4dp"
+            android:layout_marginTop="8dp"
+            android:layout_x="34dp"
+            android:layout_y="432dp"
+            android:text="@string/purchase"
+            android:textColor="?android:attr/textColorPrimaryInverse" /-->
+
+        <!--TextView
+            android:id="@+id/purchase_button_not_invalidated_description"
+            android:layout_width="331dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="4dp"
+            android:layout_x="17dp"
+            android:layout_y="178dp"
+            android:gravity="end"
+            android:text="@string/purchase_button_not_invalidated_description"
+            android:textAlignment="gravity"
+            android:textSize="15sp" /-->
+
+        <!--TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="42dp"
+            android:layout_x="15dp"
+            android:layout_y="250dp"
+            android:text="Fingerprint scanner:"
+            android:textAlignment="textEnd"
+            android:textAllCaps="false"
+            android:textSize="22sp"
+            android:textStyle="bold|italic" /-->
+
+        <!--Button
+            android:id="@+id/touch"
+            style="@android:style/Widget.DeviceDefault.Button.Inset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="237dp"
+            android:layout_y="240dp"
+            android:onClick="onClick"
+            android:text="TOUCH" /-->
+
+        <Button
+            android:id="@+id/btnSignup"
+            style="@android:style/Widget.DeviceDefault.Button.Inset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="44dp"
+            android:layout_y="200dp"
+            android:onClick="onClick"
+            android:text="SIGNUP" />
+
+        <Button
+            android:id="@+id/View1"
+            style="@android:style/Widget.DeviceDefault.Button.Inset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="212dp"
+            android:layout_y="194dp"
+            android:onClick="onButtonClick"
+            android:text="LOGIN"
+            tools:layout_editor_absoluteX="211dp"
+            tools:layout_editor_absoluteY="165dp" />
+    </AbsoluteLayout>
+</ScrollView>

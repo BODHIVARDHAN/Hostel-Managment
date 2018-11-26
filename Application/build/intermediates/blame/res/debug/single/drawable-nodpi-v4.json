@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/drawable-nodpi-v4/sky.jpg",
+        "source": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/src/main/res/drawable-nodpi/sky.jpg"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/drawable-nodpi-v4/faint.jpeg",
+        "source": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/src/main/res/drawable-nodpi/faint.jpeg"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/drawable-nodpi-v4/orange.jpg",
+        "source": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/src/main/res/drawable-nodpi/orange.jpg"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/drawable-nodpi-v4/five.jpg",
+        "source": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/src/main/res/drawable-nodpi/five.jpg"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/drawable-nodpi-v4/img.jpg",
+        "source": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/src/main/res/drawable-nodpi/img.jpg"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/drawable-nodpi-v4/trinity.jpg",
+        "source": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/src/main/res/drawable-nodpi/trinity.jpg"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/drawable-nodpi-v4/green.jpg",
+        "source": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/src/main/res/drawable-nodpi/green.jpg"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/drawable-nodpi-v4/yellow.jpg",
+        "source": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/src/main/res/drawable-nodpi/yellow.jpg"
+    }
+]

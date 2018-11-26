@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/bodhi/.android/build-cache/e2b3e7c48f3c4ccb338f5fdff465e45e17703032/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/bodhi/.android/build-cache/e2b3e7c48f3c4ccb338f5fdff465e45e17703032/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/bodhi/.android/build-cache/e2b3e7c48f3c4ccb338f5fdff465e45e17703032/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/bodhi/.android/build-cache/e2b3e7c48f3c4ccb338f5fdff465e45e17703032/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

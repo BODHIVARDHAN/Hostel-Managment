@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/bodhi/.android/build-cache/e2b3e7c48f3c4ccb338f5fdff465e45e17703032/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/bodhi/.android/build-cache/e2b3e7c48f3c4ccb338f5fdff465e45e17703032/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

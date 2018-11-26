@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/faint"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="264dp"
+        android:layout_height="wrap_content"
+        android:layout_x="69dp"
+        android:layout_y="91dp"
+        android:text="ENTER ROLL NUMBER"
+        android:textSize="25dp" />
+
+    <EditText
+        android:id="@+id/RollnoH"
+        android:layout_width="252dp"
+        android:layout_height="wrap_content"
+        android:layout_x="72dp"
+        android:layout_y="161dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/ok"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_x="130dp"
+        android:layout_y="267dp"
+        android:text="OK"
+        android:textSize="24sp" />
+
+</AbsoluteLayout>

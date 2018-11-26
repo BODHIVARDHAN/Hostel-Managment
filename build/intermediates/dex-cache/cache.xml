@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/ad813e27a3234d1efdbb9cdc698df229561bc1b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_718ac0572c1b7e6ec12ef8d35a2d375053e67ee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/0e2e708883e1088be2873855bc49a18db71fcc8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_355dcadcb7c0e99abcb67962a8089838b7cc4bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/ad15caaf110e7fa0395c076fe56ea4100c220257/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_80eea0aa1ad06b6b997a71c49da42bd6beb8dcaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/b08a95b8814aaff33040ff815128e9892bf3ff9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_fb898099a5fe7cf9f77482cb4a0668d667c4593d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/b14e571f94d28438994f2ef47e1a226ac4fff57a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_19104db45da0b256cd47f4c2c00fad5bf23d727a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/0796db4d37be8b7081734fd9515bc61e938a76fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_fb24bd74f04980b9a4a0943578fa474032ccb35e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/3091e888693b746759fd93fab5392e7ee656648b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_a1cb142c975377c48db06ede9f4c8bf8c6c1b0ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_8f71dfedebf7d93601647d3a7bfb0b4582babc83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/a72f0c536b50a54c2f118879d6f5382ad1e48fcc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_fb8f37807ba9cd391f6d58ee9acc8f6432b4db4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/7e61701ecf4fd696d6e7b40aa4b8147f484432b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_9e5397c0d683a96e294db17eb6732c828980dfbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/d0afaa992eaf45aed3df8391c38f2419bf78b0a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_2c55039be5a14f42660fda345d9754d5d2f98e5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bodhi/.android/build-cache/e2b3e7c48f3c4ccb338f5fdff465e45e17703032/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/bodhi/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/pre-dexed/debug/classes_69fb8fed895a6f67196f6e22ccf2abb39d6a6757.jar" />
+    </item>
+
+</items>

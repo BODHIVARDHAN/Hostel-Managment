@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/faint"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.fingerprintdialog.Signup">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="16dp">
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+
+            <Button
+                android:id="@+id/Department"
+                style="@android:style/Widget.DeviceDefault.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="89dp"
+                android:layout_y="9dp"
+                android:text="Department"
+                android:textSize="24sp"
+                android:visibility="visible" />
+
+
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="94dp"
+                android:layout_y="95dp" />
+
+
+            <Button
+                android:id="@+id/OK"
+                style="@android:style/Widget.DeviceDefault.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="276dp"
+                android:layout_y="90dp"
+                android:text="OK"
+                android:textSize="24sp"
+                android:visibility="visible" />
+
+            <RadioGroup
+
+                android:id="@+id/radioGroup"
+                android:layout_width="168dp"
+                android:layout_height="wrap_content"
+                android:layout_x="102dp"
+                android:layout_y="158dp"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/mca"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="MCA"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/mcs"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MCS"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/mtech"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MTECH"
+                    android:textSize="18sp" />
+
+            </RadioGroup>
+
+            <Spinner
+                android:id="@+id/spinner6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <RadioGroup
+
+                android:id="@+id/radioGroup2"
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_x="102dp"
+                android:layout_y="158dp"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/sem1"
+                    android:layout_width="142dp"
+                    android:layout_height="match_parent"
+                    android:text="SEM-I"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/sem2"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="SEM-II"
+                    android:textSize="18sp" />
+
+
+            </RadioGroup>
+
+
+            <Button
+                android:id="@+id/sub"
+                style="@android:style/Widget.DeviceDefault.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="276dp"
+                android:layout_y="181dp"
+                android:text="SUBMIT"
+                android:textSize="24sp"
+                android:visibility="visible" />
+
+
+            <TextView
+                android:id="@+id/sd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="50dp"
+                android:layout_y="20dp"
+                android:text="Student Details"
+                android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/rl"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="20dp"
+                android:layout_y="110dp"
+                android:text="Enter Rollno:"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/Rollno"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.06"
+                android:layout_x="175dp"
+                android:layout_y="100dp"
+                android:inputType="number"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/nm"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="20dp"
+                android:layout_y="160dp"
+                android:text="Enter Name:"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/Name"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="175dp"
+                android:layout_y="150dp"
+                android:inputType="text"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/mr"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="20dp"
+                android:layout_y="210dp"
+                android:text="Enter Marks:"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/Marks"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="175dp"
+                android:layout_y="200dp"
+                android:inputType="number"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/ad"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="18dp"
+                android:layout_y="260dp"
+                android:text="Enter Aadhar"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/Aadhar1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="172dp"
+                android:layout_y="255dp"
+                android:ems="10"
+                android:inputType="number" />
+
+            <!--<Button
+                android:id="@+id/Delete"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_x="202dp"
+                android:layout_y="333dp"
+                android:text="Delete"
+                android:textSize="30dp" />-->
+
+            <!--<Button
+                android:id="@+id/Update"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_x="32dp"
+                android:layout_y="401dp"
+                android:text="Update"
+                android:textSize="30dp" />-->
+
+
+            <!--TextView
+                android:id="@+id/finger"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="23dp"
+                android:layout_y="369dp"
+                android:text="Scan Your Fingerprint:"
+                android:textSize="20sp" /-->
+
+            <!--Button
+                android:id="@+id/Scan"
+                style="@android:style/Widget.DeviceDefault.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="198dp"
+                android:layout_y="366dp"
+                android:text="Scan"
+                android:textSize="24sp" /-->
+
+            <Button
+                android:id="@+id/Insert"
+                style="@android:style/Widget.DeviceDefault.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="30dp"
+                android:layout_y="445dp"
+                android:text="Insert"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/Room"
+                style="@android:style/Widget.DeviceDefault.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="216dp"
+                android:layout_y="439dp"
+                android:text="ROOM DETAILS"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btnClear"
+                style="@android:style/Widget.DeviceDefault.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_x="216dp"
+                android:layout_y="439dp"
+                android:text="CLEAR"
+                android:textSize="24sp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
